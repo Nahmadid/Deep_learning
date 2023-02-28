@@ -1,2 +1,3 @@
-Deep_learning
+Deep_learning course
+
 Nazanin@brown.edu

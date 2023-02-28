@@ -1,2 +1,2 @@
-# Deep_learning
-#Nazanin@brown.edu
+Deep_learning
+Nazanin@brown.edu
